@@ -1,3 +1,3 @@
-# React Admin Dashboard
+![react-admin-dashboard](https://github.com/ron-pradhan/react-admin-dashboard/assets/37661399/092aba78-aab2-4b25-91f9-328fe43ec644)
 
-react-admin-dashboard.jpg
+React Admin Dashboard is a pre-built user interface (UI) template built using the React library and designed for building web-based admin panels or back-office applications. It provides a set of customizable components and features for building responsive and scalable dashboards, which can be used to manage data, track performance metrics, and monitor various aspects of an application or business. React Admin Dashboard typically includes a variety of dashboard elements, such as tables, charts, forms, and notifications, as well as features like authentication, authorization, and data visualization. It is a popular choice for developers who want to build powerful
